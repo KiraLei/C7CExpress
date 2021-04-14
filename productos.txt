@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Escuadra",
+        "price": 123.45,
+        "thumbnail": "https://cnd.png",
+        "id": 1
+    },
+    {
+        "title": "Calculadora",
+        "price": 223.45,
+        "thumbnail": "https://papapapapassss.png",
+        "id": 2
+    },
+    {
+        "title": "Globo Terr",
+        "price": 453.45,
+        "thumbnail": "https://lsklaksasksss.png",
+        "id": 3
+    }
+]
